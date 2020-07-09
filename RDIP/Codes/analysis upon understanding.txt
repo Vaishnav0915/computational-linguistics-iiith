@@ -1,0 +1,23 @@
+Functionalities
+
+1. the experiment section gives a dropdown of language selection
+
+2. the mentioned languages are English and hindi
+
+3. upon selecting the language, they display button of jubles words of and sentence and asked to order the words whoch are displayed in buttons
+
+4. the buttons can be in a div class and while a button is selected it is hidden using hide functions and the selected button value is displayes below. this process goes on for every button displayes
+
+5. after selection of the initial button, one more button option apperas "ref-form  sentence" which clears the text and shows the hidden button. one the re-form button is clicked all the hidden buttons are diaplayed an the whole formed text is cleared
+
+6. after completely selecting all the words, a button is displayed which checks the grammar of the sentence formed by clicking buttons
+
+7. if the grammar is correct, then "Right Answer!!" is diplayed else if the grammar of the sentence is wrong, "Wrong Answer !!" is displayed
+
+8. Upon diaplaying the Wrong Answer text, an option appears which upon clikcing shows all the possible grammatically correct sentenses
+
+9. the entry value cannot be cleared from the current state, it can be cleared only by refreshing. 
+
+10, upon refreshing it seems to be that there are around 5-6 jumbled sentences some long and some short for different practise purpose. (It looks better if there is a clear response option which loads a different sentence upon clicking)
+
+11. the procedure goes for both languages
